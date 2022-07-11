@@ -1,1 +1,9 @@
+//test plan
+https://docs.google.com/document/d/1YhTaqXVc4mk-ZiSfTFekudeok3cDUmWvswz3zmNLR7I/edit
+
+//test cases
+https://docs.google.com/document/d/1KzS4Zqv4kb_vSxCDlVvrNESvz7sxuWICVM4RjfUn5sM/edit
+
+
+//game debug
 https://docs.google.com/document/d/1xX5NgXA5fSaOHPlTSL8wDJNyrKeGHcYslm9m_yD_sWg/edit
